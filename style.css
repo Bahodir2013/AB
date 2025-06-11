@@ -1,0 +1,130 @@
+.a{
+background-color: black;
+width: 800px;
+height: 600px;
+border: 20px solid red;
+display: flex;
+justify-content: center;
+align-items: end;
+flex-wrap: wrap;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.b{
+    background-color: red;
+height: 10px;
+width: 10px;
+}
+.c{
+    background-color: yellow;
+    height: 10px;
+    width: 10px;
+}
+.d{
+    background-color: green;
+    width: 10px;
+    height: 10px;
+}
+.e{
+    background-color: blue ;
+    height: 10px;
+    width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
